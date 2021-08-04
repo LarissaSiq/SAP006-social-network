@@ -75,12 +75,12 @@ export default () =>{
         </div>
      </form>   
     </div>
-  </div>
-  
-
     <div data-all-reviews class= "all-reviews">
-      
+  
     </div>
+    </div>
+  </div>
+
     <navbar  class="home-navbar" id="nav">
       <button class="menu-mobile-btn"><img src="./img/home-navbar.png" class="menu-img"></button> 
       <button class="menu-mobile-btn" id="add-review-navbar"><img src="./img/add-navbar.png" class="menu-img"></button>   
@@ -103,8 +103,7 @@ export default () =>{
     const userId = user.uid
     let imageSelect
     file.addEventListener("change", function (event) {
-  
-  
+
       let imageUrl = event.target.files[0]
       
       photo.file = imageUrl
@@ -217,8 +216,18 @@ export default () =>{
   
     const content = 
                   `<div id="posts-reviews">
+                  <div class="optionsedition">
+                  <button class="edit-delete" id="delete-post">Excluir</button>
+                  <button class="edit-delete" id="edit-post">Editar</button>
+                  <div class="confirm-delete">
+                  <div class="confirm-modal">
+                  <h1 class="h1-confirm-delete">Você tem certeza que quer excluir esse post?</h1>
+                  <button id="confirm-buttons" class="yes-delete">Confirmar</button>
+                  <button id="confirm-buttons" class="no-delete">Cancelar</button>
+                  </div>
+                  </div>
                   <div class="data-post">
-                  <div class="aboutbook">
+                    <div class="aboutbook">
                     <p class="stars-show">${starsEvaluation}</p>
                     <img class="photo-book-review-post" src=${imageBook}>
                     </div>
@@ -231,11 +240,22 @@ export default () =>{
                     <h3 class="name-author"> ${authorName} </h3>
                     <p class="content-review">${valueReview}</p> </br>
                     </div>
+                    
                     </div>`
 
     printReview.innerHTML = content 
     local.appendChild(printReview)
 
+    document.querySelector("#delete-post").addEventListener("click", () => {
+      document.querySelector(".confirm-delete").style.display="block"
+          document.querySelector(".yes-delete").addEventListener("click", () => {
+            // printReview.remove()
+            document.querySelector(".confirm-delete").style.display="none"
+          })
+          document.querySelector(".no-delete").addEventListener("click", () => {
+            document.querySelector(".confirm-delete").style.display="none"
+         })
+    })    
     createReview(bookName, authorName, valueReview, starsEvaluation, userNameFirebase)
     .then(() => {
       console.log("Document successfully written!");
@@ -270,6 +290,8 @@ export default () =>{
   
 
   createReviewBtn.addEventListener ("click", publishReview)
+
+  
   
   // logoutBtn.addEventListener("click", ()=>{
   //     logout()

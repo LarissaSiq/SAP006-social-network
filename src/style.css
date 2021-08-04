@@ -814,3 +814,60 @@ header{
     align-items: center;
     text-align: center;
 }
+.edit-delete{
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    color: var(--default-blue);
+    font-size:1rem;
+    margin: 0rem 0.3rem;
+    float: right;
+}
+.confirm-delete{
+    width: 100%;
+    height: 100%;
+    padding: 250px 0px;
+    background: rgba(34, 28, 87, 0.329);
+    border-radius: 15px;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    z-index: 3;
+    display: none;
+}
+.h1-confirm-delete{
+    color: #ffffff;
+    font-size: 1.5rem;
+    padding: 1rem 0rem;
+    align-items: center;
+    text-align: center;
+}
+.confirm-modal{
+    width: 250px;
+    height: 150px;
+    background: linear-gradient(600.92deg, #5e74af 50.15%, #6da7ce 100.44%);
+    border-radius: 20px;
+    padding: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -75px;
+    margin-left: -125px; 
+}
+#confirm-buttons{
+    align-items: center;
+    text-align: center;
+    background-color: #d5e2ff;
+    padding: 0.5rem 1rem;
+    width: 11rem;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    font-size: 1.3rem;
+    margin: 0.5rem 6.5rem;
+    color: var(--dark-purple);
+}
+#confirm-buttons:hover{
+    filter:invert(77%) sepia(58%) saturate(1717%) hue-rotate(203deg) brightness(100%) contrast(88%);
+    transition: 1s
+}
