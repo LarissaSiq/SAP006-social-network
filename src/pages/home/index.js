@@ -151,7 +151,6 @@ export default () =>{
   const showReviewArea = () =>{
     const formReview = sectionElement.querySelector(".review-area");
     formReview.style.display="flex";
-    sectionElement.appendChild(sidebar())
     sectionElement.querySelector(".welcome").style.display="none"
     sectionElement.querySelector(".button-make-review").style.display="none";
     sectionElement.querySelector(".make-review").style.background="linear-gradient(300.92deg, #5E97AF 6.15%, #6D9ACE 80.44%, #5694DC 100.96%)";
@@ -200,11 +199,11 @@ export default () =>{
     const formReview = sectionElement.querySelector(".review-area");
     formReview.style.display="none";
 
-    const bookName = document.querySelector("[data-book-input]").value
-    const authorName = document.querySelector("[data-author-input]").value
-    const starsEvaluation = document.querySelector('input[name="stars"]:checked').value
-    const reviewUser = document.querySelector("[data-post-input]")
-    const valueReview = reviewUser.value
+    let bookName = document.querySelector("[data-book-input]").value
+    let authorName = document.querySelector("[data-author-input]").value
+    let starsEvaluation = document.querySelector('input[name="stars"]:checked').value
+    let reviewUser = document.querySelector("[data-post-input]")
+    let valueReview = reviewUser.value
     
     const local = document.querySelector(".timeline")
     const printReview = document.createElement("article")
@@ -255,7 +254,10 @@ export default () =>{
           document.querySelector(".no-delete").addEventListener("click", () => {
             document.querySelector(".confirm-delete").style.display="none"
          })
-    })    
+    document.querySelector("#edit-post").addEventListener("click", () => {
+      showReviewArea()
+  })    
+})    
     createReview(bookName, authorName, valueReview, starsEvaluation, userNameFirebase)
     .then(() => {
       console.log("Document successfully written!");
