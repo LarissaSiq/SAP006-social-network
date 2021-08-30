@@ -8,7 +8,6 @@
 - [4. Objetivos de aprendizagem](#4-objetivos-de-aprendizagem)
 - [5. Desenvolvedoras](#5-desenvolvedoras)
 
-
 ---
 ## 1. Introdução
 
@@ -26,8 +25,6 @@ Nesse projeto, foi solicitada a criação de uma rede social que permitisse à q
 logar-se com ela, criar, editar, deletar e dar _likes_ em publicações.
 
 ### Tema
-
-
 
 ## 2. Histórias de Usuário
 
@@ -70,14 +67,28 @@ O Bookish é uma rede social direcionada a pessoas que têm o hábito da leitura
 - [x]  Postar e comentários nas publicações .
 - [x]  Excluir os próprios comentários.
 
-
-
 ## 3. Interface
+A interface do projeto foi feita atráves de uma Single Page, que contêm ao todo 7 telas, sendo elas a tela de login, de cadastro, esqueci minha senha, editar perfil, home, página de perfil e página de salvos.
 
 ### Protótipos
 
+<img width="160" alt="prototipo-mobile-login" src="https://user-images.githubusercontent.com/64505863/131375602-aaaeaed4-b5aa-48bf-ae5f-aaedd1358f17.png"><img width="160" alt="prototipo-mobile-cadastro" src="https://user-images.githubusercontent.com/64505863/131376052-c09155aa-e843-4221-882e-4737b2ebc949.png"><img width="160" alt="prototipo-mobile-criar-perfil" src="https://user-images.githubusercontent.com/64505863/131376061-9adc854d-62d1-4dcb-9729-bd28a3e2c549.png"><img width="163.3" alt="prototipo-mobile-post" src="https://user-images.githubusercontent.com/64505863/131376099-a265542c-f703-4404-a18d-6a9c005e5bb3.png">
+
+*Protótipo mobile de baixa fidelidade*
+
 ### Layout Final
 
+
+![image](https://user-images.githubusercontent.com/64505863/131377065-7ba1c54f-2cc4-4f80-a93e-4119df3a451e.png)
+
+![home](https://user-images.githubusercontent.com/64505863/131377756-7d2876ac-24b0-41e3-b571-44fc1596f6d1.gif)
+
+*Desktop*
+
+
+<img width="300" alt="telas-login" src="https://user-images.githubusercontent.com/64505863/131380668-1dc7a064-bf87-42ea-8e73-6a681e16dc22.gif"> <img width="308" alt="home-mobile" src="https://user-images.githubusercontent.com/64505863/131382140-e8958ab8-fe2c-4281-a3a5-94842563bba8.gif"> <img width="300" alt="telas-mobile" src="https://user-images.githubusercontent.com/64505863/131379232-6acddefa-37c5-4721-9037-e58b67a33abe.gif">
+
+*Mobile*
 
 ## 4. Objetivos de Aprendizagem
 
