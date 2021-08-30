@@ -86,7 +86,7 @@ A interface do projeto foi feita atráves de uma Single Page, que contêm ao tod
 *Desktop*
 
 
-<img width="250" alt="telas-login" src="https://user-images.githubusercontent.com/64505863/131380668-1dc7a064-bf87-42ea-8e73-6a681e16dc22.gif"> <img width="253" alt="home-mobile" src="https://user-images.githubusercontent.com/64505863/131382140-e8958ab8-fe2c-4281-a3a5-94842563bba8.gif"> <img width="250" alt="telas-mobile" src="https://user-images.githubusercontent.com/64505863/131379232-6acddefa-37c5-4721-9037-e58b67a33abe.gif">
+<img width="260" alt="telas-login" src="https://user-images.githubusercontent.com/64505863/131380668-1dc7a064-bf87-42ea-8e73-6a681e16dc22.gif"> <img width="264" alt="home-mobile" src="https://user-images.githubusercontent.com/64505863/131382140-e8958ab8-fe2c-4281-a3a5-94842563bba8.gif"> <img width="260" alt="telas-mobile" src="https://user-images.githubusercontent.com/64505863/131379232-6acddefa-37c5-4721-9037-e58b67a33abe.gif">
 
 *Mobile*
 
@@ -103,3 +103,7 @@ Outro tópico relevante necessário ao desenvolvimento do projeto foi a utiliza�
 :woman_technologist: [Larissa Siqueira](https://github.com/LarissaSiq)
 
 :woman_technologist: [Karen Freitas](https://github.com/karen-freitas)
+
+## 6. Link para a aplicação:
+[Bookish](https://bit.ly/social-network-Bookish)
+
