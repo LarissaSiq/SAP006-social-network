@@ -7,7 +7,7 @@
 - [3. Interface](#3-interface)
 - [4. Objetivos de aprendizagem](#4-objetivos-de-aprendizagem)
 - [5. Desenvolvedoras](#5-desenvolvedoras)
-- [6. Link para a Aplicação](#5-link-para-a-aplicação)
+- [6. Link para a Aplicação](#5-link-para-a-aplicação:)
 
 ---
 ## 1. Introdução
