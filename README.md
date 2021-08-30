@@ -87,7 +87,7 @@ A interface do projeto foi feita atráves de uma Single Page, que contêm ao tod
 *Desktop*
 
 
-<img width="260" alt="telas-login" src="https://user-images.githubusercontent.com/64505863/131380668-1dc7a064-bf87-42ea-8e73-6a681e16dc22.gif"> <img width="264" alt="home-mobile" src="https://user-images.githubusercontent.com/64505863/131382140-e8958ab8-fe2c-4281-a3a5-94842563bba8.gif"> <img width="260" alt="telas-mobile" src="https://user-images.githubusercontent.com/64505863/131379232-6acddefa-37c5-4721-9037-e58b67a33abe.gif">
+<img width="260" alt="telas-login" src="https://user-images.githubusercontent.com/64505863/131380668-1dc7a064-bf87-42ea-8e73-6a681e16dc22.gif"> <img width="265" alt="home-mobile" src="https://user-images.githubusercontent.com/64505863/131382140-e8958ab8-fe2c-4281-a3a5-94842563bba8.gif"> <img width="260" alt="telas-mobile" src="https://user-images.githubusercontent.com/64505863/131379232-6acddefa-37c5-4721-9037-e58b67a33abe.gif">
 
 *Mobile*
 
