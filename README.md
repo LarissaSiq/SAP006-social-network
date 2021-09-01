@@ -18,7 +18,7 @@ a fim de recomenda-los para outras pessoas lerem, também podendo curtir, coment
 
 ## 2. Histórias de Usuário
 
-O Bookish é uma rede social direcionada a pessoas que têm o hábito da leitura e que gostariam de compartilhar experiências, opiniões e dicas sobre o tema. Para atender às necessidades desse público, foram priorizadas três histórias de usuários, expostas a seguir juntamente com seus critérios de aceitação. Além dos critérios listados, todas as histórias deveriam ser Single Page Applications (SPA) e responsivas.
+Para atender às necessidades desse público, foram priorizadas três histórias de usuários, expostas a seguir juntamente com seus critérios de aceitação. Além dos critérios listados, todas as histórias deveriam ser Single Page Applications (SPA) e responsivas.
 
 ### História de Usuário 1 
 
