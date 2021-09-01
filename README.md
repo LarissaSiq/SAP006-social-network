@@ -12,20 +12,9 @@
 ---
 ## 1. Introdução
 
-Instagram, Snapchat, Twitter, Facebook, Twitch, Linkedin, etc. As redes sociais
-invadiram nossas vidas. Nós as amamos ou odiamos, e muitas pessoas não conseguem
-viver sem elas.
-
-Há redes sociais de todo tipo para todos os tipos de interesse. Por exemplo: em
-uma rodada de financiamento com investidores, foi apresentada uma rede social
-para químicos onde os usuários podem publicar artigos a respeito de suas
-pesquisas, comentar os artigos de seus colegas e filtrar artigos de acordo com
-determinadas tags ou popularidade, mais recente ou mais comentado.
-
-Nesse projeto, foi solicitada a criação de uma rede social que permitisse à qualquer usuário criar uma conta de acesso,
-logar-se com ela, criar, editar, deletar e dar _likes_ em publicações.
-
-### Tema
+A bookish foi feita exclusivamente para usuários que gostam de livros. Nesse projeto, foi solicitada a criação de uma rede social que permitisse à qualquer usuário criar uma conta de acesso, logar-se com ela, criar, editar, deletar e dar likes em publicações, então, foi apresentada uma rede social
+para amantes de livros onde os usuários podem publicar reviews a respeito de livros que já leu
+a fim de recomenda-los para outras pessoas lerem, também podendo curtir, comentar e salvar os reviews de outros usuários, editar os próprios reviews e também excluí-los.
 
 ## 2. Histórias de Usuário
 
