@@ -85,9 +85,9 @@ Outro tópico relevante necessário ao desenvolvimento do projeto foi a utiliza�
 
 :woman_technologist: [Carolina Alvim](https://github.com/caroAlvim)
 
-:woman_technologist: [Larissa Siqueira](https://github.com/LarissaSiq)
-
 :woman_technologist: [Karen Freitas](https://github.com/karen-freitas)
+
+:woman_technologist: [Larissa Siqueira](https://github.com/LarissaSiq)
 
 ## 6. Link para a aplicação:
 [Bookish](https://bit.ly/social-network-Bookish)
