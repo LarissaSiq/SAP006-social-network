@@ -16,8 +16,6 @@ A bookish foi feita exclusivamente para usuários que gostam de livros. Nesse pr
 para amantes de livros onde os usuários podem publicar reviews a respeito de livros que já leu
 a fim de recomenda-los para outras pessoas lerem, também podendo curtir, comentar e salvar os reviews de outros usuários, editar os próprios reviews e também excluí-los.
 
-![image](https://user-images.githubusercontent.com/64505863/131377065-7ba1c54f-2cc4-4f80-a93e-4119df3a451e.png)
-
 ![home](https://user-images.githubusercontent.com/64505863/131377756-7d2876ac-24b0-41e3-b571-44fc1596f6d1.gif)
 
 ## 2. Histórias de Usuário
