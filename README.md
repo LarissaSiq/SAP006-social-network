@@ -62,7 +62,7 @@ A interface do projeto foi feita atráves de uma Single Page, que contêm ao tod
 
 ### Protótipos
 
-*Protótipo mobile de baixa fidelidade*
+*Protótipo mobile de baixa fidelidade*                                                                                          
 <img width="160" alt="prototipo-mobile-login" src="https://user-images.githubusercontent.com/64505863/131375602-aaaeaed4-b5aa-48bf-ae5f-aaedd1358f17.png"><img width="160" alt="prototipo-mobile-cadastro" src="https://user-images.githubusercontent.com/64505863/131376052-c09155aa-e843-4221-882e-4737b2ebc949.png"><img width="160" alt="prototipo-mobile-criar-perfil" src="https://user-images.githubusercontent.com/64505863/131376061-9adc854d-62d1-4dcb-9729-bd28a3e2c549.png"><img width="163.3" alt="prototipo-mobile-post" src="https://user-images.githubusercontent.com/64505863/131376099-a265542c-f703-4404-a18d-6a9c005e5bb3.png">
 
 
